@@ -152,3 +152,27 @@
 // }
 
 // document.getElementById('demo2').innerHTML = massage
+
+// let age = 25;
+
+// let result = age > 18 ? "adult" : "not adult";
+
+// console.log(result);
+
+// !MDN Docs 
+//* https://developer.mozilla.org/ - like of w3school
+
+// !switch
+
+
+//!MCQ
+
+// let num = prompt("Enter a number")
+
+// if (num % 5 === 0 ) {
+//     console.log("Number is multiple of Five");
+// }
+// else {
+//     console.log("Number is not multiple of Five");
+    
+// }
