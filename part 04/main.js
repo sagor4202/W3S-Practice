@@ -62,9 +62,47 @@
 
 //! do loops 
 
-a = 0;
+// a = 0;
 
-do {
-    console.log(a);
-    a++
-} while ( a <= 5)
+// do {
+//     console.log(a);
+//     a++
+// } while ( a <= 5)
+
+// let person = {name: "Rahim", age: 25, city: "Dhaka"};
+
+// for (let key in person) {
+//     console.log(key + ":" + person[key]);
+    
+// }
+
+// let colors = ["Red", "Green", "Blue"]
+
+// for ( let index in colors){
+//     console.log(index + ":" + colors[index]);
+// }
+
+// let student = {id: 1, marks: {math: 80, eng: 70}};
+// for (let key in student){
+//     console.log(key + ":", student[key]); 
+// }
+
+// for...of Loop
+
+// 1. array values
+// let nums = [10, 20, 30];
+// for (let val of nums) {
+//   console.log(val);
+// }
+
+//  2. string characters
+// let str = "Hello";
+// for (let ch of str) {
+//   console.log(ch);
+// }
+
+// 3. set values
+// let unique = new Set([1, 2, 2, 3, 4]);
+// for (let val of unique) {
+//   console.log(val);
+// }
